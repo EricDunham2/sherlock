@@ -3,15 +3,16 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 GaiaOnline
 GeeksforGeeks
 HackerNews
+HackerRank
 Hashnode
 Hubski
 Instapaper
@@ -28,10 +29,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -43,3 +42,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
