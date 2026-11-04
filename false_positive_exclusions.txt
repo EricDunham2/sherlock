@@ -1,15 +1,14 @@
-APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
+BabyRu
 Championat
-Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerNews
 Hashnode
 Hubski
@@ -28,7 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+TikTok
 TryHackMe
 Velomania
 Vero
@@ -37,6 +36,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
