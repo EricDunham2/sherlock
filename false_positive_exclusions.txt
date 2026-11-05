@@ -1,9 +1,10 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Championat
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -13,10 +14,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -27,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 TryHackMe
 Velomania
 Vero
@@ -42,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
