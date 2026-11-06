@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,10 +13,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -31,6 +30,7 @@ Spotify
 TryHackMe
 Velomania
 Vero
+Wix
 YandexMusic
 authorSTREAM
 dailykos
