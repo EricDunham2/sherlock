@@ -1,8 +1,9 @@
+APClips
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
 Discord.bio
@@ -13,13 +14,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
-LibraryThing
 Linktree
 LiveJournal
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
